@@ -8,13 +8,14 @@ I'd recommend going through both of these, especially if you haven't coded much 
 * [Svelte tutorial](https://svelte.dev/tutorial/svelte/welcome-to-svelte)
 
 ## Get Started 🚦
+* Make sure you have [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed on your computer.
 * Click the green `Use this template` button above.
 * Choose `Create a new repository`
 * Give the repository a name and click `Create repository`
 * Click the green `Code` button and copy the URL to your clipboard.
 * Open your Terminal, and in the folder where you want this folder to go, run `git clone [copied url]`
 * In Terminal, go into that repo (`cd repo-name`)
-* [Make sure you have Node.js and npm installed](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
+* Make sure you have [Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) installed on your computer.
 * Run `npm install`
 * Run `npm run dev` to enter development mode.
 * Go to http://localhost:5173/, and it should be running!
